@@ -1,0 +1,17 @@
+{
+    "app_title": "GarudX",
+    "login_welcome_back": "Welcome Back!",
+    "login_enter_mobile": "Enter your mobile number to continue",
+    "login_mobile_number": "Mobile Number",
+    "login_get_otp": "Get OTP",
+    "otp_verify_title": "Verify Your Number",
+    "otp_enter_code": "Enter the 6-digit code sent to your phone",
+    "otp_code_label": "OTP Code",
+    "otp_verify_button": "Verify & Continue",
+    "home_report_button": "Report New Issue",
+    "home_summary_submitted": "Submitted",
+    "home_summary_in_progress": "In Progress",
+    "home_summary_resolved": "Resolved",
+    "home_view_nearby": "View Nearby Problems",
+    "home_recent_reports": "Recent Reports"
+}

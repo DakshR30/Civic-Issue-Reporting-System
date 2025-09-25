@@ -1,0 +1,17 @@
+{
+    "app_title": "गरुडX",
+    "login_welcome_back": "पुन्हा स्वागत आहे!",
+    "login_enter_mobile": "सुरू ठेवण्यासाठी तुमचा मोबाईल नंबर टाका",
+    "login_mobile_number": "मोबाईल नंबर",
+    "login_get_otp": "OTP मिळवा",
+    "otp_verify_title": "तुमचा नंबर सत्यापित करा",
+    "otp_enter_code": "तुमच्या फोनवर पाठवलेला ६-अंकी कोड टाका",
+    "otp_code_label": "ओटीपी कोड",
+    "otp_verify_button": "सत्यापित करा आणि सुरू ठेवा",
+    "home_report_button": "नवीन समस्या नोंदवा",
+    "home_summary_submitted": "प्रस्तुत",
+    "home_summary_in_progress": "प्रगतीपथावर",
+    "home_summary_resolved": "निराकरण झाले",
+    "home_view_nearby": "जवळच्या समस्या पहा",
+    "home_recent_reports": "नवीनतम तक्रारी"
+}
